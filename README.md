@@ -9,8 +9,8 @@ formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
 
 ------------
 
-.. image:: https://pkg.go.dev/badge/github.com/getsops/sops/v3.svg
-    :target: https://pkg.go.dev/github.com/getsops/sops/v3
+image![](https://pkg.go.dev/badge/github.com/getsops/sops/v3.svg)
+target![](https://pkg.go.dev/github.com/getsops/sops/v3)
 
 Download
 --------
